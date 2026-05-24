@@ -34,6 +34,8 @@ import os
 import re
 import sys
 import time
+import threading
+from http.server import HTTPServer, BaseHTTPRequestHandler
 from dataclasses import dataclass
 from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
@@ -1108,6 +1110,25 @@ def build_parser() -> argparse.ArgumentParser:
     return parser
 
 
+class HealthCheckHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/plain")
+        self.end_headers()
+        self.wfile.write(b"Bot is alive!")
+        
+    def log_message(self, format, *args):
+        # Disable logging for every health check ping
+        pass
+
+def start_dummy_server():
+    port = int(os.environ.get("PORT", 10000))
+    server = HTTPServer(("0.0.0.0", port), HealthCheckHandler)
+    logging.info("Starting dummy web server on port %s for Render health checks", port)
+    thread = threading.Thread(target=server.serve_forever, daemon=True)
+    thread.start()
+
+
 def main() -> int:
     load_dotenv(BASE_DIR / ".env")
     load_dotenv()
@@ -1116,6 +1137,8 @@ def main() -> int:
         level=getattr(logging, args.log_level.upper(), logging.INFO),
         format="%(asctime)s %(levelname)s %(message)s",
     )
+    
+    start_dummy_server()
 
     token = os.getenv("NSE_RESULT_TELEGRAM_BOT_TOKEN") or os.getenv("TELEGRAM_BOT_TOKEN")
     chat_id = os.getenv("NSE_RESULT_TELEGRAM_CHAT_ID") or os.getenv("TELEGRAM_CHAT_ID")
