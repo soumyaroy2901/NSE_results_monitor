@@ -1,0 +1,36 @@
+services:
+  - type: worker
+    name: nse-results-monitor
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python nse_results_telegram_bot.py
+    autoDeploy: false
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: TELEGRAM_CHAT_ID
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: NSE_RESULT_POLL_SECONDS
+        value: "60"
+      - key: NSE_RESULT_STATE_PATH
+        value: .state/nse_results_state.json
+      - key: NSE_RESULT_ONE_PER_SYMBOL_PER_DAY
+        value: "true"
+      - key: NSE_RESULT_ENABLE_AI_ANALYSIS
+        value: "true"
+      - key: NSE_RESULT_MAX_REPORTS_PER_RUN
+        value: "0"
+      - key: NSE_RESULT_EXIT_AFTER_MAX_REPORTS
+        value: "false"
+      - key: NSE_RESULT_SEND_SOURCE_PDF
+        value: "false"
+      - key: NSE_RESULT_AI_COOLDOWN_SECONDS
+        value: "900"
+      - key: GEMINI_MODEL
+        value: gemini-2.0-flash
+      - key: GEMINI_FALLBACK_MODELS
+        value: gemini-1.5-flash
