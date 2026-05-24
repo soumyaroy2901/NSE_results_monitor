@@ -1,0 +1,44 @@
+name: NSE Results Bot
+
+on:
+  schedule:
+    # Runs every minute, 24 hours a day, 7 days a week
+    - cron: '* * * * *'
+  workflow_dispatch: # Allows you to manually click a button to test it
+
+permissions:
+  contents: write # Needed to push the state file back to the repo
+
+jobs:
+  poll-nse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Bot
+        env:
+          # Pulls the secrets from your GitHub Repository settings
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # Force AI off to save time/errors in GitHub Actions
+          NSE_RESULT_ENABLE_AI_ANALYSIS: "false"
+        # The --once flag tells it to check NSE, send messages, and immediately shut down
+        run: python nse_results_telegram_bot.py --once
+
+      - name: Save memory (Commit state file)
+        # We must push the .state file back to GitHub so it remembers which PDFs it already sent!
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f .state/nse_results_state.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated state update [skip ci]" && git push)
