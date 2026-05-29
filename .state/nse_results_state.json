@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-05-29",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "ITI|106646337": "2026-05-29T10:08:03.810785+05:30"
+    },
+    "sent_symbols": [
+      "ITI"
+    ]
   }
 }
