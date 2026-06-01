@@ -1,15 +1,9 @@
 {
-  "initialized_date": "2026-06-01",
+  "initialized_date": "2026-06-02",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-06-01",
-    "sent": {
-      "ASTRON|106651063": "2026-06-01T16:03:21.748507+05:30",
-      "GRADIENTE|106651509": "2026-06-01T21:53:09.928477+05:30"
-    },
-    "sent_symbols": [
-      "ASTRON",
-      "GRADIENTE"
-    ]
+    "date": "2026-06-02",
+    "sent": {},
+    "sent_symbols": []
   }
 }
