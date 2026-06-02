@@ -1,15 +1,9 @@
 {
-  "initialized_date": "2026-06-02",
+  "initialized_date": "2026-06-03",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-06-02",
-    "sent": {
-      "LIBAS|106652880": "2026-06-02T22:35:53.192636+05:30",
-      "LOYALTEX|106652148": "2026-06-02T14:26:20.211947+05:30"
-    },
-    "sent_symbols": [
-      "LIBAS",
-      "LOYALTEX"
-    ]
+    "date": "2026-06-03",
+    "sent": {},
+    "sent_symbols": []
   }
 }
