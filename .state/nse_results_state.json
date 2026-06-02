@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-06-02",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "LOYALTEX|106652148": "2026-06-02T14:26:20.211947+05:30"
+    },
+    "sent_symbols": [
+      "LOYALTEX"
+    ]
   }
 }
