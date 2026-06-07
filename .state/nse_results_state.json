@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-06-07",
+  "initialized_date": "2026-06-08",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-06-07",
-    "sent": {
-      "BCG|106657051": "2026-06-07T20:14:07.833806+05:30"
-    },
-    "sent_symbols": [
-      "BCG"
-    ]
+    "date": "2026-06-08",
+    "sent": {},
+    "sent_symbols": []
   }
 }
