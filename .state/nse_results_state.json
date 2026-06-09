@@ -3,7 +3,13 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-06-09",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "VIDEOIND|106658671": "2026-06-09T16:57:26.744264+05:30",
+      "VIDEOIND|106658683": "2026-06-09T16:57:24.459424+05:30",
+      "VIDEOIND|106658687": "2026-06-09T16:57:24.459424+05:30"
+    },
+    "sent_symbols": [
+      "VIDEOIND"
+    ]
   }
 }
