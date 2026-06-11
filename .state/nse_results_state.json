@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-06-11",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "HINDOILEXP|106661323": "2026-06-11T20:19:21.418212+05:30"
+    },
+    "sent_symbols": [
+      "HINDOILEXP"
+    ]
   }
 }
