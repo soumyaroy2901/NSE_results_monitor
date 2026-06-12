@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-06-12",
+  "initialized_date": "2026-06-13",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-06-12",
-    "sent": {
-      "OMKARCHEM|106662384": "2026-06-12T22:46:21.243054+05:30"
-    },
-    "sent_symbols": [
-      "OMKARCHEM"
-    ]
+    "date": "2026-06-13",
+    "sent": {},
+    "sent_symbols": []
   }
 }
