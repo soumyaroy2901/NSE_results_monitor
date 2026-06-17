@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-06-17",
+  "initialized_date": "2026-06-18",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-06-17",
-    "sent": {
-      "ANSALAPI|106666012": "2026-06-17T21:54:39.419817+05:30"
-    },
-    "sent_symbols": [
-      "ANSALAPI"
-    ]
+    "date": "2026-06-18",
+    "sent": {},
+    "sent_symbols": []
   }
 }
