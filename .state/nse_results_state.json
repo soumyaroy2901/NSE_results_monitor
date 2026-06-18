@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-06-18",
+  "initialized_date": "2026-06-19",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-06-18",
-    "sent": {
-      "ANIKINDS|106667174": "2026-06-18T19:54:43.014376+05:30"
-    },
-    "sent_symbols": [
-      "ANIKINDS"
-    ]
+    "date": "2026-06-19",
+    "sent": {},
+    "sent_symbols": []
   }
 }
