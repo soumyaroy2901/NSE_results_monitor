@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-06-20",
+  "initialized_date": "2026-06-21",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-06-20",
-    "sent": {
-      "DJML|106668824": "2026-06-20T17:01:17.832558+05:30"
-    },
-    "sent_symbols": [
-      "DJML"
-    ]
+    "date": "2026-06-21",
+    "sent": {},
+    "sent_symbols": []
   }
 }
