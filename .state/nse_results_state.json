@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-06-23",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "XLENERGY|106671002": "2026-06-23T17:17:24.686232+05:30"
+    },
+    "sent_symbols": [
+      "XLENERGY"
+    ]
   }
 }
