@@ -1,15 +1,9 @@
 {
-  "initialized_date": "2026-06-23",
+  "initialized_date": "2026-06-24",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-06-23",
-    "sent": {
-      "AVG|106671566": "2026-06-23T23:57:45.099598+05:30",
-      "XLENERGY|106671002": "2026-06-23T17:17:24.686232+05:30"
-    },
-    "sent_symbols": [
-      "AVG",
-      "XLENERGY"
-    ]
+    "date": "2026-06-24",
+    "sent": {},
+    "sent_symbols": []
   }
 }
