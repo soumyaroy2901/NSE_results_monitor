@@ -3,7 +3,13 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-06-26",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "ANTGRAPHIC|106677938": "2026-06-26T21:11:08.631805+05:30",
+      "GENCON|106678010": "2026-06-26T21:11:09.861270+05:30"
+    },
+    "sent_symbols": [
+      "ANTGRAPHIC",
+      "GENCON"
+    ]
   }
 }
