@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-06-30",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "CMRGREEN|106681186": "2026-06-30T16:49:42.509839+05:30"
+    },
+    "sent_symbols": [
+      "CMRGREEN"
+    ]
   }
 }
