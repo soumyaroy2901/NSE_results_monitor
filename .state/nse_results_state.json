@@ -4,10 +4,12 @@
   "sent_by_date": {
     "date": "2026-07-01",
     "sent": {
-      "INNOVISION|106683755": "2026-07-01T21:19:42.500795+05:30"
+      "INNOVISION|106683755": "2026-07-01T21:19:42.500795+05:30",
+      "VIKASECO|106683824": "2026-07-01T23:12:57.479471+05:30"
     },
     "sent_symbols": [
-      "INNOVISION"
+      "INNOVISION",
+      "VIKASECO"
     ]
   }
 }
