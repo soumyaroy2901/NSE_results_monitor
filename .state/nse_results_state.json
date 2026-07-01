@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-07-01",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "INNOVISION|106683755": "2026-07-01T21:19:42.500795+05:30"
+    },
+    "sent_symbols": [
+      "INNOVISION"
+    ]
   }
 }
