@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-07-03",
+  "initialized_date": "2026-07-04",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-07-03",
-    "sent": {
-      "TULSI|106685955": "2026-07-03T18:00:34.753057+05:30"
-    },
-    "sent_symbols": [
-      "TULSI"
-    ]
+    "date": "2026-07-04",
+    "sent": {},
+    "sent_symbols": []
   }
 }
