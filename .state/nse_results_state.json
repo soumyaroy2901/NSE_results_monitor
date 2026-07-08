@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-07-08",
+  "initialized_date": "2026-07-09",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-07-08",
-    "sent": {
-      "INDBANK|106690602": "2026-07-08T16:47:21.289866+05:30"
-    },
-    "sent_symbols": [
-      "INDBANK"
-    ]
+    "date": "2026-07-09",
+    "sent": {},
+    "sent_symbols": []
   }
 }
