@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-07-10",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "ELECON|106693203": "2026-07-10T12:27:11.943541+05:30"
+    },
+    "sent_symbols": [
+      "ELECON"
+    ]
   }
 }
