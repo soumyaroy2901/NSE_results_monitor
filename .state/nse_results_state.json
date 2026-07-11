@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-07-11",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "AVANTEL|106694732": "2026-07-11T15:08:47.920860+05:30"
+    },
+    "sent_symbols": [
+      "AVANTEL"
+    ]
   }
 }
