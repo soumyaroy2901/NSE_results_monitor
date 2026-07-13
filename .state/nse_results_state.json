@@ -3,7 +3,15 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-07-13",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "BAJAJCON|106695449": "2026-07-13T13:26:11.085336+05:30",
+      "GMBREW|106695330": "2026-07-13T13:26:10.110018+05:30",
+      "KRISHANA|106695209": "2026-07-13T13:26:09.538599+05:30"
+    },
+    "sent_symbols": [
+      "BAJAJCON",
+      "GMBREW",
+      "KRISHANA"
+    ]
   }
 }
