@@ -3,7 +3,12 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-07-14",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "MBAPL|106696518": "2026-07-14T11:14:23.579530+05:30",
+      "MBAPL|106696552": "2026-07-14T11:14:21.820680+05:30"
+    },
+    "sent_symbols": [
+      "MBAPL"
+    ]
   }
 }
