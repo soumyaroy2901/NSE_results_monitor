@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-07-16",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "DBCORP|106699843": "2026-07-16T12:02:14.997872+05:30"
+    },
+    "sent_symbols": [
+      "DBCORP"
+    ]
   }
 }
