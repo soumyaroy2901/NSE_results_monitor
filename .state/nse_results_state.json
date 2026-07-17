@@ -3,7 +3,13 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-07-17",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "CENTRALBK|106701316": "2026-07-17T13:51:00.200232+05:30",
+      "FEDERALBNK|106701331": "2026-07-17T13:51:01.480291+05:30"
+    },
+    "sent_symbols": [
+      "CENTRALBK",
+      "FEDERALBNK"
+    ]
   }
 }
