@@ -1,9 +1,13 @@
 {
-  "initialized_date": "2026-07-18",
+  "initialized_date": "2026-07-21",
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-07-21",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "CSM|106704369": "2026-07-21T11:44:51.749852+05:30"
+    },
+    "sent_symbols": [
+      "CSM"
+    ]
   }
 }
