@@ -4,10 +4,12 @@
   "sent_by_date": {
     "date": "2026-07-22",
     "sent": {
-      "BHARATCOAL|106705898": "2026-07-22T02:51:07.619075+05:30"
+      "BHARATCOAL|106705898": "2026-07-22T02:51:07.619075+05:30",
+      "NESTLEIND|106706181": "2026-07-22T11:42:31.983539+05:30"
     },
     "sent_symbols": [
-      "BHARATCOAL"
+      "BHARATCOAL",
+      "NESTLEIND"
     ]
   }
 }
