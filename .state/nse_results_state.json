@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-07-26",
+  "initialized_date": "2026-07-27",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-07-26",
-    "sent": {
-      "SMCGLOBAL|106711290": "2026-07-26T21:59:58.278095+05:30"
-    },
-    "sent_symbols": [
-      "SMCGLOBAL"
-    ]
+    "date": "2026-07-27",
+    "sent": {},
+    "sent_symbols": []
   }
 }
