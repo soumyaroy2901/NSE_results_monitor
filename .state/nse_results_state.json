@@ -3,7 +3,15 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-07-28",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "INDOCO|106713202": "2026-07-28T12:14:39.041642+05:30",
+      "VARDHACRLC|106713190": "2026-07-28T12:14:38.469849+05:30",
+      "VBL|106713226": "2026-07-28T12:14:39.886827+05:30"
+    },
+    "sent_symbols": [
+      "INDOCO",
+      "VARDHACRLC",
+      "VBL"
+    ]
   }
 }
