@@ -3,7 +3,15 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-07-29",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "CARTRADE|106714823": "2026-07-29T11:45:32.813547+05:30",
+      "MAHSCOOTER|106714798": "2026-07-29T11:45:32.075340+05:30",
+      "THANGAMAYL|106714839": "2026-07-29T11:45:33.783777+05:30"
+    },
+    "sent_symbols": [
+      "CARTRADE",
+      "MAHSCOOTER",
+      "THANGAMAYL"
+    ]
   }
 }
