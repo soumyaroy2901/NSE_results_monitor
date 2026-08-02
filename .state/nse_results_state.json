@@ -1,15 +1,9 @@
 {
-  "initialized_date": "2026-08-02",
+  "initialized_date": "2026-08-03",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-08-02",
-    "sent": {
-      "BIRLACABLE|106721267": "2026-08-02T19:42:40.664440+05:30",
-      "PERSISTENT|106721243": "2026-08-02T15:48:57.455086+05:30"
-    },
-    "sent_symbols": [
-      "BIRLACABLE",
-      "PERSISTENT"
-    ]
+    "date": "2026-08-03",
+    "sent": {},
+    "sent_symbols": []
   }
 }
