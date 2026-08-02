@@ -4,9 +4,11 @@
   "sent_by_date": {
     "date": "2026-08-02",
     "sent": {
+      "BIRLACABLE|106721267": "2026-08-02T19:42:40.664440+05:30",
       "PERSISTENT|106721243": "2026-08-02T15:48:57.455086+05:30"
     },
     "sent_symbols": [
+      "BIRLACABLE",
       "PERSISTENT"
     ]
   }
