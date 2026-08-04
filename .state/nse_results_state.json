@@ -3,7 +3,17 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-08-04",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "DEEDEV|106723371": "2026-08-04T11:43:55.891776+05:30",
+      "GODREJPROP|106723376": "2026-08-04T11:43:56.641717+05:30",
+      "MSUMI|106723364": "2026-08-04T11:43:55.019507+05:30",
+      "UNOMINDA|106723359": "2026-08-04T11:43:54.256955+05:30"
+    },
+    "sent_symbols": [
+      "DEEDEV",
+      "GODREJPROP",
+      "MSUMI",
+      "UNOMINDA"
+    ]
   }
 }
