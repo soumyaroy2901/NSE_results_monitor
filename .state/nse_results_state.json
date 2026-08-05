@@ -3,7 +3,13 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-08-05",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "CHEVIOT|106725894": "2026-08-05T12:14:09.502940+05:30",
+      "OMNI|106725817": "2026-08-05T12:14:08.593920+05:30"
+    },
+    "sent_symbols": [
+      "CHEVIOT",
+      "OMNI"
+    ]
   }
 }
