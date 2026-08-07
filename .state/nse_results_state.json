@@ -3,7 +3,13 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-08-07",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "GKENERGY|106730500": "2026-08-07T11:47:15.079441+05:30",
+      "SURANAT&P|106730545": "2026-08-07T11:47:15.812656+05:30"
+    },
+    "sent_symbols": [
+      "GKENERGY",
+      "SURANAT&P"
+    ]
   }
 }
