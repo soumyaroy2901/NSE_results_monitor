@@ -3,7 +3,13 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-08-08",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "KAKATCEM|106732892": "2026-08-08T12:31:02.721074+05:30",
+      "PKTEA|106732888": "2026-08-08T12:30:59.250814+05:30"
+    },
+    "sent_symbols": [
+      "KAKATCEM",
+      "PKTEA"
+    ]
   }
 }
