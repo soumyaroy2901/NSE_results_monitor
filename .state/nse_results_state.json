@@ -3,7 +3,13 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-08-09",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "QPOWER|106733625": "2026-08-09T12:40:22.626343+05:30",
+      "SKYGOLD|106733618": "2026-08-09T12:40:21.669643+05:30"
+    },
+    "sent_symbols": [
+      "QPOWER",
+      "SKYGOLD"
+    ]
   }
 }
