@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-08-10",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "GARUDA|106733875": "2026-08-10T11:18:41.738801+05:30"
+    },
+    "sent_symbols": [
+      "GARUDA"
+    ]
   }
 }
