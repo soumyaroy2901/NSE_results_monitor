@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-08-11",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "KPIGREEN|106736143": "2026-08-11T11:38:23.193780+05:30"
+    },
+    "sent_symbols": [
+      "KPIGREEN"
+    ]
   }
 }
