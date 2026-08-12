@@ -3,7 +3,13 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-08-12",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "ATLASCYCLE|106738451": "2026-08-12T11:45:25.356385+05:30",
+      "PANAMAPET|106738465": "2026-08-12T11:45:26.432080+05:30"
+    },
+    "sent_symbols": [
+      "ATLASCYCLE",
+      "PANAMAPET"
+    ]
   }
 }
