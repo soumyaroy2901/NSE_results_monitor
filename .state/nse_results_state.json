@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-08-13",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "LANDSMILL|106740679": "2026-08-13T09:56:48.809438+05:30"
+    },
+    "sent_symbols": [
+      "LANDSMILL"
+    ]
   }
 }
