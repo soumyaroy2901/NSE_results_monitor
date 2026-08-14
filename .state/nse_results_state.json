@@ -1,9 +1,13 @@
 {
-  "initialized_date": "2026-08-14",
+  "initialized_date": "2026-08-15",
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-08-15",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "NSLNISP|106746044": "2026-08-15T03:07:23.236925+05:30"
+    },
+    "sent_symbols": [
+      "NSLNISP"
+    ]
   }
 }
