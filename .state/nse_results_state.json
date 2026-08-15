@@ -1,16 +1,9 @@
 {
-  "initialized_date": "2026-08-15",
+  "initialized_date": "2026-08-16",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-08-15",
-    "sent": {
-      "ABAN|106746150": "2026-08-15T14:52:27.515690+05:30",
-      "ABAN|106746158": "2026-08-15T15:15:09.860714+05:30",
-      "NSLNISP|106746044": "2026-08-15T03:07:23.236925+05:30"
-    },
-    "sent_symbols": [
-      "ABAN",
-      "NSLNISP"
-    ]
+    "date": "2026-08-16",
+    "sent": {},
+    "sent_symbols": []
   }
 }
