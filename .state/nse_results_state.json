@@ -3,7 +3,12 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-08-17",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "SRPL|106746865": "2026-08-17T15:36:29.251850+05:30",
+      "SRPL|106746867": "2026-08-17T15:36:28.364497+05:30"
+    },
+    "sent_symbols": [
+      "SRPL"
+    ]
   }
 }
