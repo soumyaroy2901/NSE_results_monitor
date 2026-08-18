@@ -4,10 +4,12 @@
   "sent_by_date": {
     "date": "2026-08-18",
     "sent": {
-      "PRITIKAUTO|106748119": "2026-08-18T13:01:48.497000+05:30"
+      "PRITIKAUTO|106748119": "2026-08-18T13:01:48.497000+05:30",
+      "SHYAMCENT|106748338": "2026-08-18T16:15:18.148458+05:30"
     },
     "sent_symbols": [
-      "PRITIKAUTO"
+      "PRITIKAUTO",
+      "SHYAMCENT"
     ]
   }
 }
