@@ -1,19 +1,9 @@
 {
-  "initialized_date": "2026-08-18",
+  "initialized_date": "2026-08-19",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-08-18",
-    "sent": {
-      "ANNAPURNA|106748831": "2026-08-18T20:25:37.275248+05:30",
-      "PRITIKAUTO|106748119": "2026-08-18T13:01:48.497000+05:30",
-      "SHYAMCENT|106748338": "2026-08-18T16:15:18.148458+05:30",
-      "TVVISION|106748537": "2026-08-18T18:39:40.470407+05:30"
-    },
-    "sent_symbols": [
-      "ANNAPURNA",
-      "PRITIKAUTO",
-      "SHYAMCENT",
-      "TVVISION"
-    ]
+    "date": "2026-08-19",
+    "sent": {},
+    "sent_symbols": []
   }
 }
