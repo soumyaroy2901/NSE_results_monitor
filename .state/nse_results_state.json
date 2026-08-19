@@ -1,15 +1,9 @@
 {
-  "initialized_date": "2026-08-19",
+  "initialized_date": "2026-08-20",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-08-19",
-    "sent": {
-      "LCL|106750198": "2026-08-19T20:46:47.663171+05:30",
-      "XTRANET|106749987": "2026-08-19T18:27:05.880974+05:30"
-    },
-    "sent_symbols": [
-      "LCL",
-      "XTRANET"
-    ]
+    "date": "2026-08-20",
+    "sent": {},
+    "sent_symbols": []
   }
 }
