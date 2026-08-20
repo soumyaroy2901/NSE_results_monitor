@@ -4,10 +4,12 @@
   "sent_by_date": {
     "date": "2026-08-20",
     "sent": {
-      "MANIPALHOS|106751355": "2026-08-20T19:02:47.998858+05:30"
+      "MANIPALHOS|106751355": "2026-08-20T19:02:47.998858+05:30",
+      "SUPREMEENG|106751459": "2026-08-20T19:39:53.079115+05:30"
     },
     "sent_symbols": [
-      "MANIPALHOS"
+      "MANIPALHOS",
+      "SUPREMEENG"
     ]
   }
 }
