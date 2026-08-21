@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-08-21",
+  "initialized_date": "2026-08-22",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-08-21",
-    "sent": {
-      "FLEXITUFF|106752965": "2026-08-21T20:19:23.346777+05:30"
-    },
-    "sent_symbols": [
-      "FLEXITUFF"
-    ]
+    "date": "2026-08-22",
+    "sent": {},
+    "sent_symbols": []
   }
 }
