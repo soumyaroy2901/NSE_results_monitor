@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-08-21",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "FLEXITUFF|106752965": "2026-08-21T20:19:23.346777+05:30"
+    },
+    "sent_symbols": [
+      "FLEXITUFF"
+    ]
   }
 }
