@@ -1,15 +1,9 @@
 {
-  "initialized_date": "2026-08-26",
+  "initialized_date": "2026-08-27",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-08-26",
-    "sent": {
-      "JNPR|106757969": "2026-08-26T20:03:50.956101+05:30",
-      "SIMBHALS|106757693": "2026-08-26T18:29:20.174614+05:30"
-    },
-    "sent_symbols": [
-      "JNPR",
-      "SIMBHALS"
-    ]
+    "date": "2026-08-27",
+    "sent": {},
+    "sent_symbols": []
   }
 }
