@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-08-28",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "GSS|106760842": "2026-08-28T21:12:13.048833+05:30"
+    },
+    "sent_symbols": [
+      "GSS"
+    ]
   }
 }
