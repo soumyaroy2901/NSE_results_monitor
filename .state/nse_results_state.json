@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-08-29",
+  "initialized_date": "2026-08-30",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-08-29",
-    "sent": {
-      "ANMOL|106761175": "2026-08-29T12:29:10.088352+05:30"
-    },
-    "sent_symbols": [
-      "ANMOL"
-    ]
+    "date": "2026-08-30",
+    "sent": {},
+    "sent_symbols": []
   }
 }
