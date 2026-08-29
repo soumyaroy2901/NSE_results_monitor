@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-08-28",
+  "initialized_date": "2026-08-29",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-08-28",
-    "sent": {
-      "GSS|106760842": "2026-08-28T21:12:13.048833+05:30"
-    },
-    "sent_symbols": [
-      "GSS"
-    ]
+    "date": "2026-08-29",
+    "sent": {},
+    "sent_symbols": []
   }
 }
