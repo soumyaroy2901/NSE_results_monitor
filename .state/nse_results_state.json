@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-08-30",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "NAGAFERT|106761771": "2026-08-30T18:30:32.740685+05:30"
+    },
+    "sent_symbols": [
+      "NAGAFERT"
+    ]
   }
 }
