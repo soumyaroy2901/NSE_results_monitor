@@ -1,15 +1,9 @@
 {
-  "initialized_date": "2026-08-31",
+  "initialized_date": "2026-09-01",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-08-31",
-    "sent": {
-      "MILKYMIST|106762542": "2026-08-31T18:04:30.580508+05:30",
-      "SETCO|106762385": "2026-08-31T18:04:29.606532+05:30"
-    },
-    "sent_symbols": [
-      "MILKYMIST",
-      "SETCO"
-    ]
+    "date": "2026-09-01",
+    "sent": {},
+    "sent_symbols": []
   }
 }
