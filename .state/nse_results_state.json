@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-09-02",
+  "initialized_date": "2026-09-03",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-09-02",
-    "sent": {
-      "TECHNOCRAF|106766205": "2026-09-02T20:06:52.560313+05:30"
-    },
-    "sent_symbols": [
-      "TECHNOCRAF"
-    ]
+    "date": "2026-09-03",
+    "sent": {},
+    "sent_symbols": []
   }
 }
