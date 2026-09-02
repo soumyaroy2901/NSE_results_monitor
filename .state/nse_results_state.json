@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-09-02",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "TECHNOCRAF|106766205": "2026-09-02T20:06:52.560313+05:30"
+    },
+    "sent_symbols": [
+      "TECHNOCRAF"
+    ]
   }
 }
