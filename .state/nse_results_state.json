@@ -3,7 +3,13 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-09-04",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "PRUDMOULI|106769791": "2026-09-04T16:41:44.616804+05:30",
+      "SUPREMEENG|106769872": "2026-09-04T16:41:45.665987+05:30"
+    },
+    "sent_symbols": [
+      "PRUDMOULI",
+      "SUPREMEENG"
+    ]
   }
 }
