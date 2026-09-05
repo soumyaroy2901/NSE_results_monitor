@@ -2,12 +2,8 @@
   "initialized_date": "2026-09-05",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-09-05",
-    "sent": {
-      "MOLBIO|106771600": "2026-09-05T19:31:29.696076+05:30"
-    },
-    "sent_symbols": [
-      "MOLBIO"
-    ]
+    "date": "2026-09-06",
+    "sent": {},
+    "sent_symbols": []
   }
 }
