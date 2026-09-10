@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-09-10",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "GAJA|106777478": "2026-09-10T12:05:01.641358+05:30"
+    },
+    "sent_symbols": [
+      "GAJA"
+    ]
   }
 }
