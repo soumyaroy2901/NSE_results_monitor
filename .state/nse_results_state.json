@@ -1,15 +1,9 @@
 {
-  "initialized_date": "2026-09-10",
+  "initialized_date": "2026-09-11",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-09-10",
-    "sent": {
-      "GAJA|106777478": "2026-09-10T12:05:01.641358+05:30",
-      "SHANKESH|106778010": "2026-09-10T20:41:41.499389+05:30"
-    },
-    "sent_symbols": [
-      "GAJA",
-      "SHANKESH"
-    ]
+    "date": "2026-09-11",
+    "sent": {},
+    "sent_symbols": []
   }
 }
