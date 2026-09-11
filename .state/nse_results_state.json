@@ -1,19 +1,9 @@
 {
-  "initialized_date": "2026-09-11",
+  "initialized_date": "2026-09-12",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-09-11",
-    "sent": {
-      "CMICABLES|106778912": "2026-09-11T19:23:54.813502+05:30",
-      "CONSOFINVT|106779279": "2026-09-11T19:23:56.491900+05:30",
-      "HORIZONIND|106778889": "2026-09-11T19:23:53.726411+05:30",
-      "LALITHAA|106779145": "2026-09-11T19:23:55.763572+05:30"
-    },
-    "sent_symbols": [
-      "CMICABLES",
-      "CONSOFINVT",
-      "HORIZONIND",
-      "LALITHAA"
-    ]
+    "date": "2026-09-12",
+    "sent": {},
+    "sent_symbols": []
   }
 }
