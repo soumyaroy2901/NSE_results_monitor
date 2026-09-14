@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-09-14",
+  "initialized_date": "2026-09-15",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-09-14",
-    "sent": {
-      "CMICABLES|106779984": "2026-09-14T19:09:30.240422+05:30"
-    },
-    "sent_symbols": [
-      "CMICABLES"
-    ]
+    "date": "2026-09-15",
+    "sent": {},
+    "sent_symbols": []
   }
 }
