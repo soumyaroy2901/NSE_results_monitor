@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-09-18",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "VIPIND|106784489": "2026-09-18T16:59:31.356162+05:30"
+    },
+    "sent_symbols": [
+      "VIPIND"
+    ]
   }
 }
