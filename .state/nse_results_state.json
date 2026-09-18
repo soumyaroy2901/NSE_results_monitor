@@ -2,16 +2,8 @@
   "initialized_date": "2026-09-18",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-09-18",
-    "sent": {
-      "HTEL|106784867": "2026-09-18T20:35:14.077889+05:30",
-      "SUPREMEENG|106784818": "2026-09-18T20:35:13.076804+05:30",
-      "VIPIND|106784489": "2026-09-18T16:59:31.356162+05:30"
-    },
-    "sent_symbols": [
-      "HTEL",
-      "SUPREMEENG",
-      "VIPIND"
-    ]
+    "date": "2026-09-19",
+    "sent": {},
+    "sent_symbols": []
   }
 }
