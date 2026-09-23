@@ -1,17 +1,9 @@
 {
-  "initialized_date": "2026-09-23",
+  "initialized_date": "2026-09-24",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-09-23",
-    "sent": {
-      "ANNU|106789027": "2026-09-23T17:44:54.473794+05:30",
-      "CONSOFINVT|106790088": "2026-09-23T22:31:09.573771+05:30",
-      "WINSOME|106790011": "2026-09-23T22:31:08.780123+05:30"
-    },
-    "sent_symbols": [
-      "ANNU",
-      "CONSOFINVT",
-      "WINSOME"
-    ]
+    "date": "2026-09-24",
+    "sent": {},
+    "sent_symbols": []
   }
 }
