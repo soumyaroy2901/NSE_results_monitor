@@ -3,7 +3,13 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-09-24",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "ESDS|106792297": "2026-09-24T20:56:25.042748+05:30",
+      "PERNIASPOP|106792024": "2026-09-24T20:56:23.933430+05:30"
+    },
+    "sent_symbols": [
+      "ESDS",
+      "PERNIASPOP"
+    ]
   }
 }
