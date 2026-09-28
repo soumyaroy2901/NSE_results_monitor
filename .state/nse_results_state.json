@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-09-28",
+  "initialized_date": "2026-09-29",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-09-28",
-    "sent": {
-      "DEEPA|106797087": "2026-09-28T19:16:51.545226+05:30"
-    },
-    "sent_symbols": [
-      "DEEPA"
-    ]
+    "date": "2026-09-29",
+    "sent": {},
+    "sent_symbols": []
   }
 }
