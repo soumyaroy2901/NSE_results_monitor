@@ -1,15 +1,9 @@
 {
-  "initialized_date": "2026-10-05",
+  "initialized_date": "2026-10-06",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-10-05",
-    "sent": {
-      "LCCPROJECT|106807274": "2026-10-05T21:08:31.629873+05:30",
-      "STEAMHOUSE|106807006": "2026-10-05T21:08:30.515146+05:30"
-    },
-    "sent_symbols": [
-      "LCCPROJECT",
-      "STEAMHOUSE"
-    ]
+    "date": "2026-10-06",
+    "sent": {},
+    "sent_symbols": []
   }
 }
