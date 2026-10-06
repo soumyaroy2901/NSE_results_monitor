@@ -3,7 +3,19 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-10-06",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "ARCIL|106808923": "2026-10-06T21:19:46.617456+05:30",
+      "GLASSWALL|106808894": "2026-10-06T21:19:45.927282+05:30",
+      "KANOHAR|106808846": "2026-10-06T21:19:44.108342+05:30",
+      "KARAMTARA|106808890": "2026-10-06T21:19:45.032142+05:30",
+      "VEEGALAND|106808327": "2026-10-06T21:19:43.325848+05:30"
+    },
+    "sent_symbols": [
+      "ARCIL",
+      "GLASSWALL",
+      "KANOHAR",
+      "KARAMTARA",
+      "VEEGALAND"
+    ]
   }
 }
