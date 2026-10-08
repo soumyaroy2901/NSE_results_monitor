@@ -1,17 +1,9 @@
 {
-  "initialized_date": "2026-10-08",
+  "initialized_date": "2026-10-09",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-10-08",
-    "sent": {
-      "GMBREW|106810935": "2026-10-08T14:58:36.999568+05:30",
-      "RENTOMOJO|106811460": "2026-10-08T22:17:20.728162+05:30",
-      "TCS|106811186": "2026-10-08T22:17:19.521967+05:30"
-    },
-    "sent_symbols": [
-      "GMBREW",
-      "RENTOMOJO",
-      "TCS"
-    ]
+    "date": "2026-10-09",
+    "sent": {},
+    "sent_symbols": []
   }
 }
