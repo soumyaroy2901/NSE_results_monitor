@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-10-08",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "GMBREW|106810935": "2026-10-08T14:58:36.999568+05:30"
+    },
+    "sent_symbols": [
+      "GMBREW"
+    ]
   }
 }
