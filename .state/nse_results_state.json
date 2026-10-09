@@ -2,22 +2,8 @@
   "initialized_date": "2026-10-09",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-10-09",
-    "sent": {
-      "ANANDRATHI|106812846": "2026-10-09T20:01:24.661196+05:30",
-      "CANFINHOME|106813014": "2026-10-09T20:01:25.542333+05:30",
-      "CANHLIFE|106812676": "2026-10-09T20:01:22.020317+05:30",
-      "CORDELIA|106812708": "2026-10-09T20:01:23.494193+05:30",
-      "CRAMC|106813067": "2026-10-09T20:01:26.412971+05:30",
-      "POONAWALLA|106812650": "2026-10-09T20:01:20.886928+05:30"
-    },
-    "sent_symbols": [
-      "ANANDRATHI",
-      "CANFINHOME",
-      "CANHLIFE",
-      "CORDELIA",
-      "CRAMC",
-      "POONAWALLA"
-    ]
+    "date": "2026-10-10",
+    "sent": {},
+    "sent_symbols": []
   }
 }
