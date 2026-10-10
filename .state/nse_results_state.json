@@ -3,7 +3,13 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-10-10",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "DMART|106813548": "2026-10-10T20:19:48.486492+05:30",
+      "PREMIERPOL|106813532": "2026-10-10T20:19:47.829592+05:30"
+    },
+    "sent_symbols": [
+      "DMART",
+      "PREMIERPOL"
+    ]
   }
 }
