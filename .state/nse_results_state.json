@@ -3,7 +3,13 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-10-17",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "AXISBANK|106821005": "2026-10-17T13:12:57.602090+05:30",
+      "IXIGO|106820983": "2026-10-17T13:12:57.008514+05:30"
+    },
+    "sent_symbols": [
+      "AXISBANK",
+      "IXIGO"
+    ]
   }
 }
