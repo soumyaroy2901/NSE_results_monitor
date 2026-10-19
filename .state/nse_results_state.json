@@ -3,7 +3,13 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-10-19",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "HFCL|106821721": "2026-10-19T12:14:41.842520+05:30",
+      "UNIONBANK|106821746": "2026-10-19T12:14:44.740720+05:30"
+    },
+    "sent_symbols": [
+      "HFCL",
+      "UNIONBANK"
+    ]
   }
 }
