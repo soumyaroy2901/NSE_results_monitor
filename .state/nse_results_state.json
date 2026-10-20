@@ -1,17 +1,9 @@
 {
-  "initialized_date": "2026-10-20",
+  "initialized_date": "2026-10-21",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-10-20",
-    "sent": {
-      "GALLANTT|106822656": "2026-10-20T01:09:46.443044+05:30",
-      "KAPSTON|106822799": "2026-10-20T22:19:09.404839+05:30",
-      "SRTL|106822787": "2026-10-20T17:34:06.027100+05:30"
-    },
-    "sent_symbols": [
-      "GALLANTT",
-      "KAPSTON",
-      "SRTL"
-    ]
+    "date": "2026-10-21",
+    "sent": {},
+    "sent_symbols": []
   }
 }
