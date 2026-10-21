@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-10-21",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "AYE|106823089": "2026-10-21T11:55:19.944331+05:30"
+    },
+    "sent_symbols": [
+      "AYE"
+    ]
   }
 }
