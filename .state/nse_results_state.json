@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-10-23",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "SSWL|106826022": "2026-10-23T12:04:01.190481+05:30"
+    },
+    "sent_symbols": [
+      "SSWL"
+    ]
   }
 }
