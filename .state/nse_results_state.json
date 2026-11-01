@@ -3,7 +3,13 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-11-01",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "POWERGRID|106838847": "2026-11-01T21:48:19.748815+05:30",
+      "SAIPARENT|106838793": "2026-11-01T21:48:18.976780+05:30"
+    },
+    "sent_symbols": [
+      "POWERGRID",
+      "SAIPARENT"
+    ]
   }
 }
