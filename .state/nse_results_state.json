@@ -3,7 +3,11 @@
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-11-09",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "RMDRIP|106853363": "2026-11-09T14:52:50.526945+05:30"
+    },
+    "sent_symbols": [
+      "RMDRIP"
+    ]
   }
 }
