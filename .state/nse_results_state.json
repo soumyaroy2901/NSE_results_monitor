@@ -1,15 +1,9 @@
 {
-  "initialized_date": "2026-11-16",
+  "initialized_date": "2026-11-17",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-11-16",
-    "sent": {
-      "GENCON|106861860": "2026-11-16T13:23:19.262803+05:30",
-      "LASA|106861744": "2026-11-16T13:23:17.498941+05:30"
-    },
-    "sent_symbols": [
-      "GENCON",
-      "LASA"
-    ]
+    "date": "2026-11-17",
+    "sent": {},
+    "sent_symbols": []
   }
 }
