@@ -2,14 +2,8 @@
   "initialized_date": "2026-11-17",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-11-17",
-    "sent": {
-      "LIBAS|106863996": "2026-11-17T23:25:55.347178+05:30",
-      "SEYAIND|106863675": "2026-11-17T23:25:52.939494+05:30"
-    },
-    "sent_symbols": [
-      "LIBAS",
-      "SEYAIND"
-    ]
+    "date": "2026-11-18",
+    "sent": {},
+    "sent_symbols": []
   }
 }
