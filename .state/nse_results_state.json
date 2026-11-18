@@ -1,9 +1,13 @@
 {
-  "initialized_date": "2026-11-17",
+  "initialized_date": "2026-11-18",
   "last_board_meeting_error": "",
   "sent_by_date": {
     "date": "2026-11-18",
-    "sent": {},
-    "sent_symbols": []
+    "sent": {
+      "UNIDT|106864569": "2026-11-18T13:02:01.345596+05:30"
+    },
+    "sent_symbols": [
+      "UNIDT"
+    ]
   }
 }
