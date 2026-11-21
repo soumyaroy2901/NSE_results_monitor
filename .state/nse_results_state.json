@@ -1,15 +1,9 @@
 {
-  "initialized_date": "2026-11-20",
+  "initialized_date": "2026-11-21",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-11-20",
-    "sent": {
-      "GVPTECH|106867794": "2026-11-20T23:47:38.077271+05:30",
-      "VALECHAENG|106867786": "2026-11-20T23:47:37.272052+05:30"
-    },
-    "sent_symbols": [
-      "GVPTECH",
-      "VALECHAENG"
-    ]
+    "date": "2026-11-21",
+    "sent": {},
+    "sent_symbols": []
   }
 }
