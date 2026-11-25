@@ -1,13 +1,9 @@
 {
-  "initialized_date": "2026-11-24",
+  "initialized_date": "2026-11-25",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-11-24",
-    "sent": {
-      "LEXUS|106869730": "2026-11-24T21:41:59.320364+05:30"
-    },
-    "sent_symbols": [
-      "LEXUS"
-    ]
+    "date": "2026-11-25",
+    "sent": {},
+    "sent_symbols": []
   }
 }
