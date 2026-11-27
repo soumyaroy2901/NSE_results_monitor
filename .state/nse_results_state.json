@@ -1,15 +1,9 @@
 {
-  "initialized_date": "2026-11-27",
+  "initialized_date": "2026-11-28",
   "last_board_meeting_error": "",
   "sent_by_date": {
-    "date": "2026-11-27",
-    "sent": {
-      "CCCL|106872758": "2026-11-27T16:37:08.703104+05:30",
-      "SETCO|106872787": "2026-11-27T16:37:10.285783+05:30"
-    },
-    "sent_symbols": [
-      "CCCL",
-      "SETCO"
-    ]
+    "date": "2026-11-28",
+    "sent": {},
+    "sent_symbols": []
   }
 }
